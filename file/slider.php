@@ -1,6 +1,6 @@
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
 	<div class="carousel-inner" role="listbox">
-		<?php include("file/list_pekerjaan.php")?>
+		<?php include("list_pekerjaan.php")?>
 	</div>
 	<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
 		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
